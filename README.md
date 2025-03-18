@@ -63,6 +63,7 @@ A full-stack web application with user authentication, task management, and **re
     Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ## 📂 Project Structure
+```
 todo-list-app/
 │
 ├── app.py             # Flask application (Web server)
@@ -72,7 +73,7 @@ todo-list-app/
 ├── index.html         # Frontend HTML file
 ├── README.md          # Project documentation
 └── requirements.txt   # Python dependencies
-
+```
 ## 📝 Usage
 
 ### 🆕 Register a New User
