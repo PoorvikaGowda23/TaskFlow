@@ -21,9 +21,9 @@ A full-stack web application with user authentication, task management, and **re
 
 ## 🛠 Tech Stack
 
-| Component               | Technology                          |
-|-------------------------|-------------------------------------|
-| Frontend                | HTML5, Bootstrap 5, JavaScript      |
+| Component               | Technology                         |
+|-------------------------|------------------------------------|
+| Frontend                | HTML, Bootstrap , JavaScript       |
 | Backend                 | Python 3.9+, Flask                 |
 | Real-Time Communication | Python Socket Programming          |
 | Data Storage            | JSON (File-based storage)          |
@@ -41,3 +41,17 @@ A full-stack web application with user authentication, task management, and **re
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
    cd todo-list-app
+
+2.  **Install dependencies**
+        pip install flask
+
+3.  **Run the servers (in separate terminals)**
+    # Terminal 1 - Start Flask Web Server (Port 5000)
+        python app.py
+    # Terminal 2 - Start Socket Server (Port 12346)
+        python server.py
+
+4.  **Access the application**
+        Open http://localhost:5000 in your browser.
+
+   
