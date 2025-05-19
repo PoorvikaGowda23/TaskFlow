@@ -40,8 +40,8 @@ A full-stack web application with user authentication, task management, and **re
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/todo-list-app.git
-    cd todo-list-app
+    git clone https://github.com/PoorvikaGowda23/TaskFlow.git
+    cd TaskFlow
     ```
 
 2. **Install dependencies**
